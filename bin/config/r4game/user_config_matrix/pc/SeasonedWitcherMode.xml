@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<UserConfig>
+   
+    <Group id="SethSeasonedWitcherMode" displayName="Mods.W3EE_w3ee.W3EE_addons.dlcw3ee_auto_swm">
+		<VisibleVars>
+			<Var id="SeasonedWitcherModeEnable" displayName="dlcw3ee_auto_swm" displayType="TOGGLE" tags="customNames;customDisplayName"/>
+		</VisibleVars>
+	</Group>
+	
+</UserConfig>
